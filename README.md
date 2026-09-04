@@ -30,7 +30,7 @@
 <p align="center">
     🔭 I'm currently working on Python and Generative AI<br>
     👯 I'm looking to collaborate on backend dev<br>
-    🌱 I'm currently learning Prompt Engineering
+    
 </p>
 <br>
 <div align="center">
